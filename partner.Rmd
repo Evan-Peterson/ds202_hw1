@@ -1,0 +1,22 @@
+---
+title: "partner.Rmd"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+  Evan Peterson
+  
+  Username: Evan-Peterson
+  
+  Latest commit:Added hw1.Rmd and hw1.html
+  
+  Commit ID: c009b597d6f2516e330fc461bacdb185cc570f94
+  
+  I was able to knit the file.
+  
+  I don't have any tips, I'm still trying to figure this out.
